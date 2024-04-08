@@ -1,0 +1,17 @@
+{
+  "name": "aj45-assignment_45",
+  "version": "1.0.1",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "types" : "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
